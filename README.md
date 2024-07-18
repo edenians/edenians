@@ -1,16 +1,16 @@
-## Hi there 👋
+ <div align="center"> <img src="https://files.catbox.moe/i0z13w.gif"> </div>
+ <h2 align="center">
+  $\text{\color{white}{Edenia System}}$ </h2>
+  
+ <p align="center"> 
+  $\text{\color{white}{Bodily 18 | Ask for front + Pronouns | PDX DID Sys}}$ </p>
+ 
+ <div align="center"> <img src="https://files.catbox.moe/tcvr16.webp"> </div>
 
-<!--
-**edenians/edenians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  $\text{\color{white}{≫ Read straw page before interacting please.}}$ </p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+ $\text{\color{white}{≫ Send questions and whatever else to our Retrosping.}}$ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div align="center"> <img src="https://files.catbox.moe/azq9ct.gif"> </div>
