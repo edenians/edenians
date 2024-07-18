@@ -3,7 +3,7 @@
   $\text{\color{white}{Edenia System}}$ </h2>
   
  <p align="center"> 
-  $\text{\color{white}{Bodily 18 | Ask for front + Pronouns | PDX DID Sys}}$ </p>
+  $\text{\color{white}{Bodily 18 | Ask for front + Pronouns | PDX DID}}$ </p>
  
  <div align="center"> <img src="https://files.catbox.moe/tcvr16.webp"> </div>
 
